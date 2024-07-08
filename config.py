@@ -1,0 +1,8 @@
+
+
+TOKEN   = "7354419811:AAEk3KUNZVBZTXqT3mGGq5OKCnS79XkrFeI"
+
+priceM  = 1500
+priceL  = 2500
+priceXL = 3500
+
